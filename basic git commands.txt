@@ -1,3 +1,12 @@
 git remote add origin urllink #to get the git url attached with the project # where git means git command, remote means you are working with url's, add means you are adding a new url, origin means what is the name of the url that you are going to add 
 git remote -v #it will show all the url's that are attached to folder
 
+
+to push a file or folder steps-
+add directory 
+use git remote add origin urllink command
+use git branch -M main
+git push -u origin main
+
+
+
