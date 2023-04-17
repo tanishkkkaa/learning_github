@@ -8,5 +8,10 @@ use git remote add origin urllink command
 use git branch -M main
 git push -u origin main
 
+to add new branch
+git branch feature
+git checkout feature
 
 
+merging branches
+git merge feature
